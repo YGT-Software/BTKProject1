@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTKProject1.Core", "BTKProject1.Core\BTKProject1.Core.csproj", "{7E7F62ED-12DA-46AA-AFEA-3062C8004F40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTKProject1.Northwind.Entities", "BTKProject1.Northwind.Entities\BTKProject1.Northwind.Entities.csproj", "{CA86AFC3-1B3F-4120-BA6C-850E765C8A3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTKProject1.Northwind.DataAccess", "BTKProject1.Northwind.DataAccess\BTKProject1.Northwind.DataAccess.csproj", "{D7D0CE85-6D02-4CF6-9D69-41C03A2A48F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTKProject1.Northwind.Business", "BTKProject1.Northwind.Business\BTKProject1.Northwind.Business.csproj", "{3C5382AD-65A9-44E4-B4F0-D0424E03DD2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTKProject1.Northwind.MvcWebUI", "BTKProject1.Northwind.MvcWebUI\BTKProject1.Northwind.MvcWebUI.csproj", "{6A71F530-400F-4992-ABEE-8BEE9418A190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTKProject1.Northwind.MvcWebUI.Tests", "BTKProject1.Northwind.MvcWebUI.Tests\BTKProject1.Northwind.MvcWebUI.Tests.csproj", "{52D5F0D5-29C8-47C6-9E01-80BA4D219F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTKProject1.DataAccess.Tests", "BTKProject1.DataAccess.Tests\BTKProject1.DataAccess.Tests.csproj", "{169DFE82-C5DD-4441-B509-09E03641349B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTKProject1.Northwind.Business.Tests", "BTKProject1.Northwind.Business.Tests\BTKProject1.Northwind.Business.Tests.csproj", "{307D7F24-6E3B-4886-9F50-BDFB7AE2F622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTKProject1.Northwind.WebApi", "BTKProject1.Northwind.WebApi\BTKProject1.Northwind.WebApi.csproj", "{3E3E7B5B-88C7-45FD-8B77-6D6690B114B4}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BTKProject1.Northwind.WcfService", "BTKProject1.Northwind.WcfService\", "{584E389A-1FC8-438A-B7D9-541638E52EA0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51377"
+		Debug.AspNetCompiler.PhysicalPath = "BTKProject1.Northwind.WcfService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51377\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51377"
+		Release.AspNetCompiler.PhysicalPath = "BTKProject1.Northwind.WcfService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51377\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51377"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7F62ED-12DA-46AA-AFEA-3062C8004F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7F62ED-12DA-46AA-AFEA-3062C8004F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7F62ED-12DA-46AA-AFEA-3062C8004F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7F62ED-12DA-46AA-AFEA-3062C8004F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA86AFC3-1B3F-4120-BA6C-850E765C8A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA86AFC3-1B3F-4120-BA6C-850E765C8A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA86AFC3-1B3F-4120-BA6C-850E765C8A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA86AFC3-1B3F-4120-BA6C-850E765C8A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D0CE85-6D02-4CF6-9D69-41C03A2A48F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D0CE85-6D02-4CF6-9D69-41C03A2A48F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D0CE85-6D02-4CF6-9D69-41C03A2A48F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D0CE85-6D02-4CF6-9D69-41C03A2A48F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5382AD-65A9-44E4-B4F0-D0424E03DD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5382AD-65A9-44E4-B4F0-D0424E03DD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5382AD-65A9-44E4-B4F0-D0424E03DD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5382AD-65A9-44E4-B4F0-D0424E03DD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A71F530-400F-4992-ABEE-8BEE9418A190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A71F530-400F-4992-ABEE-8BEE9418A190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A71F530-400F-4992-ABEE-8BEE9418A190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A71F530-400F-4992-ABEE-8BEE9418A190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D5F0D5-29C8-47C6-9E01-80BA4D219F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D5F0D5-29C8-47C6-9E01-80BA4D219F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D5F0D5-29C8-47C6-9E01-80BA4D219F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D5F0D5-29C8-47C6-9E01-80BA4D219F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169DFE82-C5DD-4441-B509-09E03641349B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169DFE82-C5DD-4441-B509-09E03641349B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169DFE82-C5DD-4441-B509-09E03641349B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169DFE82-C5DD-4441-B509-09E03641349B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307D7F24-6E3B-4886-9F50-BDFB7AE2F622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307D7F24-6E3B-4886-9F50-BDFB7AE2F622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307D7F24-6E3B-4886-9F50-BDFB7AE2F622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307D7F24-6E3B-4886-9F50-BDFB7AE2F622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3E7B5B-88C7-45FD-8B77-6D6690B114B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3E7B5B-88C7-45FD-8B77-6D6690B114B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3E7B5B-88C7-45FD-8B77-6D6690B114B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3E7B5B-88C7-45FD-8B77-6D6690B114B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584E389A-1FC8-438A-B7D9-541638E52EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584E389A-1FC8-438A-B7D9-541638E52EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584E389A-1FC8-438A-B7D9-541638E52EA0}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{584E389A-1FC8-438A-B7D9-541638E52EA0}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46873382-DF55-4E5C-AFB8-394C2C49902B}
+	EndGlobalSection
+EndGlobal
