@@ -1,0 +1,14 @@
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\bin\Debug\net6.0\BTKProject1.Core.deps.json
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\bin\Debug\net6.0\BTKProject1.Core.runtimeconfig.json
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\bin\Debug\net6.0\BTKProject1.Core.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\bin\Debug\net6.0\BTKProject1.Core.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.csproj.AssemblyReference.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.AssemblyInfoInputs.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.AssemblyInfo.cs
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.csproj.CoreCompileInputs.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\refint\BTKProject1.Core.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\BTKProject1.Core.genruntimeconfig.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Core\obj\Debug\net6.0\ref\BTKProject1.Core.dll

@@ -1,0 +1,12 @@
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.Business.deps.json
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.Business.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.Business.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.AssemblyInfo.cs
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\refint\BTKProject1.Northwind.Business.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\ref\BTKProject1.Northwind.Business.dll
