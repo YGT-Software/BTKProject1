@@ -1,5 +1,4 @@
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\BTKProject1.Northwind.MvcWebUI.Tests.dll
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\BTKProject1.Northwind.MvcWebUI.Tests.pdb
@@ -15,3 +14,17 @@ C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebU
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\obj\Debug\BTKProject1.Northwind.MvcWebUI.Tests.csproj.CopyComplete
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\obj\Debug\BTKProject1.Northwind.MvcWebUI.Tests.dll
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\obj\Debug\BTKProject1.Northwind.MvcWebUI.Tests.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.MvcWebUI.Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll

@@ -58,6 +58,14 @@
           }
         }
       },
+      "FluentValidation/11.5.2": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.5.2.0"
+          }
+        }
+      },
       "Iesi.Collections/4.0.4": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
@@ -162,6 +170,14 @@
           "lib/net6.0/NHibernate.dll": {
             "assemblyVersion": "5.4.0.0",
             "fileVersion": "5.4.2.0"
+          }
+        }
+      },
+      "PostSharp/4.2.17": {
+        "runtime": {
+          "lib/net35-client/PostSharp.dll": {
+            "assemblyVersion": "4.2.17.0",
+            "fileVersion": "4.2.17.0"
           }
         }
       },
@@ -998,6 +1014,8 @@
       "BTKProject1.Core/1.0.0": {
         "dependencies": {
           "EntityFramework": "6.4.4",
+          "FluentValidation": "11.5.2",
+          "PostSharp": "4.2.17",
           "NHibernate": "5.4.2"
         },
         "runtime": {
@@ -1040,6 +1058,13 @@
       "sha512": "sha512-10DjlRfyzzBrVLXoHRgBAtQjhwwt4iXCPROWSdm+TMc+lfrII27io6XZfT0k4ZG2vOSVKQHCtTr508nppaM/tA==",
       "path": "fluentnhibernate/3.2.1",
       "hashPath": "fluentnhibernate.3.2.1.nupkg.sha512"
+    },
+    "FluentValidation/11.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kj/hW/iusp2zq1Vt1YPLgDj6UG0DhoJXGkLwjLwm3j7vUtRF8DVA5vHJfItG3BxDjLWJUR2pvw8fK7rnuysZNA==",
+      "path": "fluentvalidation/11.5.2",
+      "hashPath": "fluentvalidation.11.5.2.nupkg.sha512"
     },
     "Iesi.Collections/4.0.4": {
       "type": "package",
@@ -1103,6 +1128,13 @@
       "sha512": "sha512-pikbNZG4UV8lRBMpvxdgEEuzpWHQFJ8M4HUhmyHdHQzsiz+B/w2kJemVXWycx0NfrD/2yV54Tu15ZCD51z44Bg==",
       "path": "nhibernate/5.4.2",
       "hashPath": "nhibernate.5.4.2.nupkg.sha512"
+    },
+    "PostSharp/4.2.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b7THtwQmAxkDwo5+AGIE6mysPx8QY/v2rV6yxfh8ByWkidZ70V5Ssy1sqIK9ao4wMec2T3r1obUGxrR/lpIf2A==",
+      "path": "postsharp/4.2.17",
+      "hashPath": "postsharp.4.2.17.nupkg.sha512"
     },
     "Remotion.Linq/2.2.0": {
       "type": "package",

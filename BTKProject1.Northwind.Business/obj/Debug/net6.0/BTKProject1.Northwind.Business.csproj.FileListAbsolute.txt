@@ -10,3 +10,12 @@ C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Busines
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\refint\BTKProject1.Northwind.Business.dll
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.pdb
 C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\ref\BTKProject1.Northwind.Business.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.Business.runtimeconfig.json
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Core.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.DataAccess.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.Entities.dll
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Core.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.DataAccess.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\bin\Debug\net6.0\BTKProject1.Northwind.Entities.pdb
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.csproj.CopyComplete
+C:\Users\muaze\Desktop\CSharpCourseBTK\BTKProject1\BTKProject1.Northwind.Business\obj\Debug\net6.0\BTKProject1.Northwind.Business.genruntimeconfig.cache

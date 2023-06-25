@@ -21,6 +21,7 @@ namespace BTKProject1.Northwind.DataAccess.Concrete.EntityFramework.Mappings
 
 
         }
-    {
+
+
     }
 }
