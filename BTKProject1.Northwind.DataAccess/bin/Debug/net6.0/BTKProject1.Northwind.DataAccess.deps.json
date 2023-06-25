@@ -9,7 +9,9 @@
       "BTKProject1.Northwind.DataAccess/1.0.0": {
         "dependencies": {
           "BTKProject1.Core": "1.0.0",
-          "BTKProject1.Northwind.Entities": "1.0.0"
+          "BTKProject1.Northwind.Entities": "1.0.0",
+          "FluentNHibernate": "3.2.1",
+          "NHibernate": "5.4.2"
         },
         "runtime": {
           "BTKProject1.Northwind.DataAccess.dll": {}
@@ -42,6 +44,17 @@
           "lib/netstandard2.1/EntityFramework.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.400.420.21404"
+          }
+        }
+      },
+      "FluentNHibernate/3.2.1": {
+        "dependencies": {
+          "NHibernate": "5.4.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/FluentNHibernate.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.1.0"
           }
         }
       },
@@ -1020,6 +1033,13 @@
       "sha512": "sha512-yj1+/4tci7Panu3jKDHYizxwVm0Jvm7b7m057b5h4u8NUHGCR8WIWirBTw+8EptRffwftIWPBeIRGNKD1ewEMQ==",
       "path": "entityframework/6.4.4",
       "hashPath": "entityframework.6.4.4.nupkg.sha512"
+    },
+    "FluentNHibernate/3.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-10DjlRfyzzBrVLXoHRgBAtQjhwwt4iXCPROWSdm+TMc+lfrII27io6XZfT0k4ZG2vOSVKQHCtTr508nppaM/tA==",
+      "path": "fluentnhibernate/3.2.1",
+      "hashPath": "fluentnhibernate.3.2.1.nupkg.sha512"
     },
     "Iesi.Collections/4.0.4": {
       "type": "package",

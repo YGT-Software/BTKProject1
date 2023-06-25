@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Kwa6AGK8r1nCy/SMo/FdD0I5WZ3nZ4KWU/tC3MksErhABJGD4W5HOJIdaKQL+5k1hfOIhcmubs4/PKZzRbdM/w==",
+  "dgSpecHash": "lAbUwz+W3k54PRS78Xr0bzPZgu4Z9O4wnCTWQR28FcrNT/YpE2DfVFqt6xCrtK+9Ey4HtVAb6/8XcjBoY2ODWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.DataAccess\\BTKProject1.Northwind.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muaze\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\muaze\\.nuget\\packages\\fluentnhibernate\\3.2.1\\fluentnhibernate.3.2.1.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
