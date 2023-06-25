@@ -64,6 +64,19 @@
           }
         }
       },
+      "FluentValidation/11.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Iesi.Collections/4.0.4": {
         "type": "package",
         "dependencies": {
@@ -1930,6 +1943,29 @@
         "lib/netstandard2.0/FluentNHibernate.pdb",
         "lib/netstandard2.0/FluentNHibernate.xml",
         "logo-nuget.png"
+      ]
+    },
+    "FluentValidation/11.5.2": {
+      "sha512": "kj/hW/iusp2zq1Vt1YPLgDj6UG0DhoJXGkLwjLwm3j7vUtRF8DVA5vHJfItG3BxDjLWJUR2pvw8fK7rnuysZNA==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "Iesi.Collections/4.0.4": {
@@ -6122,8 +6158,10 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BTKProject1.Core >= 1.0.0",
       "BTKProject1.Northwind.DataAccess >= 1.0.0",
-      "BTKProject1.Northwind.Entities >= 1.0.0"
+      "BTKProject1.Northwind.Entities >= 1.0.0",
+      "fluentvalidation >= 11.5.2"
     ]
   },
   "packageFolders": {
@@ -6153,6 +6191,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Core\\BTKProject1.Core.csproj": {
+              "projectPath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Core\\BTKProject1.Core.csproj"
+            },
             "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.DataAccess\\BTKProject1.Northwind.DataAccess.csproj": {
               "projectPath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.DataAccess\\BTKProject1.Northwind.DataAccess.csproj"
             },
@@ -6171,6 +6212,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "fluentvalidation": {
+            "target": "Package",
+            "version": "[11.5.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

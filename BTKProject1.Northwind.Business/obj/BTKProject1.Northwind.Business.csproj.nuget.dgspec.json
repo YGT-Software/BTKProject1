@@ -93,6 +93,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Core\\BTKProject1.Core.csproj": {
+                "projectPath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Core\\BTKProject1.Core.csproj"
+              },
               "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.DataAccess\\BTKProject1.Northwind.DataAccess.csproj": {
                 "projectPath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.DataAccess\\BTKProject1.Northwind.DataAccess.csproj"
               },
@@ -111,6 +114,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "fluentvalidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

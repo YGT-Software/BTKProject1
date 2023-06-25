@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
             "nhibernate": {
               "target": "Package",
               "version": "[5.4.2, )"

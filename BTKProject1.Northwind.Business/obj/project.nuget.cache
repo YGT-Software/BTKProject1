@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ts4J7F4p5XrNrnuT2G8uS5yshG84lVim835IdhdlO+0n0dAeHytTVbz/q7tgpSALhWoCJsknMZqT7tNGPd4rdw==",
+  "dgSpecHash": "YI7BFsROUtCpfSy8NuG0sVXazc4oXOPs2KBvHjgMLuyqjpIwCAiReSeBYkWQkoB5Tc6oVROSkp57dWBkELp2yw==",
   "success": true,
   "projectFilePath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.Business\\BTKProject1.Northwind.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muaze\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\fluentnhibernate\\3.2.1\\fluentnhibernate.3.2.1.nupkg.sha512",
+    "C:\\Users\\muaze\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

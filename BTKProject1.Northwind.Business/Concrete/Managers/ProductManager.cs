@@ -1,4 +1,6 @@
-﻿using BTKProject1.Northwind.Business.Abstract;
+﻿using BTKProject1.Core.CrossCuttingConcerns.Validation.FluentValidation;
+using BTKProject1.Northwind.Business.Abstract;
+using BTKProject1.Northwind.Business.ValidationRules.FluentValidation;
 using BTKProject1.Northwind.DataAccess.Abstract;
 using BTKProject1.Northwind.Entities.Concrete;
 using System;
@@ -18,8 +20,10 @@ namespace BTKProject1.Northwind.Business.Concrete.Managers
             _productDal = productDal;
         }
 
+        [FluentValidate(typeof(ProductValidator))]
         public Product Add(Product product)
         {
+
             return _productDal.Add(product);
         }
 
@@ -31,6 +35,13 @@ namespace BTKProject1.Northwind.Business.Concrete.Managers
         public Product GetById(int id)
         {
             return _productDal.Get(p => p.ProductId == id);
+        }
+
+
+        [FluentValidate(typeof(ProductValidator))]
+        public Product Update(Product product)
+        {
+            return _productDal.Update(product);
         }
     }
 }

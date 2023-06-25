@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="fluentvalidation" Version="11.5.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BTKProject1.Core\BTKProject1.Core.csproj" />
     <ProjectReference Include="..\BTKProject1.Northwind.DataAccess\BTKProject1.Northwind.DataAccess.csproj" />
     <ProjectReference Include="..\BTKProject1.Northwind.Entities\BTKProject1.Northwind.Entities.csproj" />
   </ItemGroup>
