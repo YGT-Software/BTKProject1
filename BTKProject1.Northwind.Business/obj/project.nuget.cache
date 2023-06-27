@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8kWXe6PnQtxhJF5h+jPqRJPZnOpbPfHr5QWg1SFleExiXh6cr1REnAAaio41xdYlEyMTEc3t92NyB0Cvu3Soig==",
+  "dgSpecHash": "9WS+dRXT5azZrtHXzwimGqUad3ZLMX3j12+QO+F5EmbJAyTKFD5hdJRCzFbbK9xdu0MGzvKxcGIFbiP37D+jSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.Business\\BTKProject1.Northwind.Business.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\muaze\\.nuget\\packages\\fluentnhibernate\\3.2.1\\fluentnhibernate.3.2.1.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",
+    "C:\\Users\\muaze\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -16,6 +17,7 @@
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\muaze\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\nhibernate\\5.4.2\\nhibernate.5.4.2.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\ninject\\3.2.2\\ninject.3.2.2.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\postsharp\\4.2.17\\postsharp.4.2.17.nupkg.sha512",
