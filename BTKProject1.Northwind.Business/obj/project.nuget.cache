@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PQAks/vfp95ld8QR7TdXDg0od8bLH/kTcBRkAob60rGRWqxPg+bx8Z7wXu2bWEAWRu5E/o6AY20M80zby/1OMw==",
+  "dgSpecHash": "U+xpBJVDey6xfJtGxK3T6ul44ZafYWQmjjdU9j7ldwl8NxuiqiUh7bzEjmhZUY7Cq30of+AiCROBX/sfklNNlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\muaze\\Desktop\\CSharpCourseBTK\\BTKProject1\\BTKProject1.Northwind.Business\\BTKProject1.Northwind.Business.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\muaze\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\nhibernate\\5.4.2\\nhibernate.5.4.2.nupkg.sha512",
+    "C:\\Users\\muaze\\.nuget\\packages\\ninject\\3.2.2\\ninject.3.2.2.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\postsharp\\4.2.17\\postsharp.4.2.17.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
     "C:\\Users\\muaze\\.nuget\\packages\\remotion.linq.eagerfetching\\2.2.0\\remotion.linq.eagerfetching.2.2.0.nupkg.sha512",
@@ -108,6 +109,16 @@
     "C:\\Users\\muaze\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Ninject 3.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Ninject",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",

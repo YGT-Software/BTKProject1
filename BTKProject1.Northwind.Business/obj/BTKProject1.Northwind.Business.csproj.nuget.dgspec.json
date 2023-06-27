@@ -127,6 +127,10 @@
               "target": "Package",
               "version": "[11.5.2, )"
             },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
             "PostSharp": {
               "target": "Package",
               "version": "[4.2.17, )"
