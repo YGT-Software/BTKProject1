@@ -1,4 +1,6 @@
 ﻿using BTKProject1.Core.Aspects.Postsharp;
+using BTKProject1.Core.Aspects.Postsharp.TransactionAspects;
+using BTKProject1.Core.Aspects.Postsharp.ValidationAspects;
 using BTKProject1.Core.CrossCuttingConcerns.Validation.FluentValidation;
 using BTKProject1.Northwind.Business.Abstract;
 using BTKProject1.Northwind.Business.ValidationRules.FluentValidation;
@@ -9,6 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 
 namespace BTKProject1.Northwind.Business.Concrete.Managers
 {
@@ -38,6 +41,14 @@ namespace BTKProject1.Northwind.Business.Concrete.Managers
             return _productDal.Get(p => p.ProductId == id);
         }
 
+        [TransactionScopeAspect]
+        public void TransactionalOperation(Product product1, Product product2)
+        {
+            _productDal.Add(product1);
+            //BusinessCodes
+            _productDal.Update(product2);
+
+        }
 
         [FluentValidationAspect(typeof(ProductValidator))]
         public Product Update(Product product)
