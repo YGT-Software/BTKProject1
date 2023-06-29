@@ -1,8 +1,10 @@
 ﻿using BTKProject1.Core.Aspects.Postsharp;
 using BTKProject1.Core.Aspects.Postsharp.CacheAspects;
+using BTKProject1.Core.Aspects.Postsharp.LogAspects;
 using BTKProject1.Core.Aspects.Postsharp.TransactionAspects;
 using BTKProject1.Core.Aspects.Postsharp.ValidationAspects;
 using BTKProject1.Core.CrossCuttingConcerns.Caching.Microsoft;
+using BTKProject1.Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 using BTKProject1.Core.CrossCuttingConcerns.Validation.FluentValidation;
 using BTKProject1.Northwind.Business.Abstract;
 using BTKProject1.Northwind.Business.ValidationRules.FluentValidation;
@@ -35,6 +37,7 @@ namespace BTKProject1.Northwind.Business.Concrete.Managers
         }
 
         [CacheAspect(typeof(MemoryCacheManager))]
+        [LogAspect(typeof(DatabaseLogger))]
         public List<Product> GetAll()
         {
             return _productDal.GetList();
